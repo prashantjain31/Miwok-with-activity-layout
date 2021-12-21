@@ -1,7 +1,7 @@
 # Miwok with activity layout #
 
 This app allows user to learn some words of Miwok language like: Color names, Family Member names, Numbers, and some of the common phrases.
-App uses Recycler View to show the lists. It also plays audio of pronunciation so that user can understand how to speak that word or phrase.
+App uses ListView to show the lists. It also plays audio of pronunciation so that user can understand how to speak that word or phrase.
 This app opens new activity for each of the categories.
 
 ### Technologies and Languages used: ###
